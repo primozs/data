@@ -1007,6 +1007,7 @@
     },
     {
       "id": "custom-points-layer",
+      "type": "circle",
       "source": "some-points-source",
       "paint": {
         "circle-radius": 4,
